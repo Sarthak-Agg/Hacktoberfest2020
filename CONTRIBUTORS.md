@@ -17,3 +17,8 @@
 - Place: Ghaziabad, Uttar Pradesh
 - Bio: Java Programmer
 - Github: [Jai Gaur](https://github.com/Jai-Gaur-26)
+
+#### Name: [Sarthak Aggarwal](https://github.com/Sarthak-Agg)
+- Place: New Delhi, India
+- Bio:  Developer
+- Github: [Sarthak Aggarwal](https://github.com/Sarthak-Agg)
